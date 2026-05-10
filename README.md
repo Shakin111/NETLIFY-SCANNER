@@ -25,7 +25,7 @@
 ## ▶️ اجرا
 
 ```bash id="lqjlwm"
-python scanner.py
+python IR NETLIFY SCANNER.py
 ```
 
 ---
